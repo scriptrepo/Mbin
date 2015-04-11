@@ -1,0 +1,12 @@
+
+Bin/
+Templates/
+ +   OOP/
+  +   II/ INTERFACE
+   +   CL/ CLASS
+      io/ TPRODUCTS 
+Moblie/Templates/
+ + OOP/
+   +   II  /*INTERFACE*/ 
+    +  CL  /*CLASS*/ 
+     + io/  /*TPRODUCTS*/
